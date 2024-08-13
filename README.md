@@ -48,7 +48,3 @@ Included visualizations:
 2. Install the required libraries.
 3. Run `codMainteance.py` to reproduce the analysis.
 4. Use the saved model for predictions.
-
-## Acknowledgements
-
-Thanks to Kaggle for providing the dataset.
